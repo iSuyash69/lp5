@@ -34,4 +34,7 @@ while True:
         print("Exiting the program.")
         break
 
+# for model in genai.list_models():
+#     print(model.name)
+
 # pip install google-generativeai     
