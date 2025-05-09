@@ -31,3 +31,9 @@ while True:
     if userChoice!='yes':
         print("Exiting the program.")
         break
+
+
+# pip install requests
+# python -m pip install requests
+# pip show requests
+
